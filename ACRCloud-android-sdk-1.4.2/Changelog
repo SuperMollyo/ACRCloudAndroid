@@ -1,0 +1,25 @@
+version 1.4.2
+- libACRCloudEngine.so: modify humming fingerprint bug.
+
+version 1.4.1
+- class ACRCloudClient: add function resampleBit32Int() and resampleBit32Float() 
+
+version 1.4.0
+- add a new Listener(IACRCloudResultWithAudioListener), if you implement it and add "this.mConfig.acrcloudResultWithAudioListener = this;",
+  you can get audio data by "public void onResult(ACRCloudResult result)". For example:
+  public class MainActivity extends AppCompatActivity implements IACRCloudListener, IACRCloudResultWithAudioListener {
+      this.mConfig = new ACRCloudConfig();
+      this.mConfig.acrcloudListener = this;
+      this.mConfig.acrcloudResultWithAudioListener = this; // If you add this line, the SDK will call new callback function(onResult(ACRCloudResult result))
+      this.mConfig.context = this;
+
+     @Override
+     public void onResult(ACRCloudResult result) {
+        // new callback function, you can get audio data by "result.getRecordDataPCM()"
+     }
+
+    @Override
+    public void onResult(String result) {
+        // old callback function
+    }
+  }
