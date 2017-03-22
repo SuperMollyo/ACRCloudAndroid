@@ -1,0 +1,4 @@
+#Tue Mar 21 15:25:06 PDT 2017
+base.0=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

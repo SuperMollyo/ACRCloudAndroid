@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Mar 21 17:01:14 PDT 2017
+2.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/assets/debug
+6.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/assets/debug/acrcloud/afp.iv
+5.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/assets/debug
+3.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/assets/debug/acrcloud/afp.df
+3.set=ASSET
+1.base=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+0.set=ASSET

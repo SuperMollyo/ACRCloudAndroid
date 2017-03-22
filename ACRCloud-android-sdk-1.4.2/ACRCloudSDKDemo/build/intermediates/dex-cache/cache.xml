@@ -1,2 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d87a968c535eb3df856d92725e151e4ffbd76576">
+        <dex dex="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6b7dff03d03b77f299c1d2c5d126ac7c0d81f89a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_007a1364cf4edd295bee11b059abedda49ec0ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/libs/acrcloud-android-sdk-1.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8395fdb894f03d3cb8237985c758d1005e551644">
+        <dex dex="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/acrcloud-android-sdk-1.4.2_a71981c4b0ebf6bfe6b0345cb81b3385198cdb9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mollyr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7a6a87ab7dcd50c5b98bf97c27a0a0515e8abafc/classes.dex" />
+    </item>
+
+</items>

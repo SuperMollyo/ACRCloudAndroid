@@ -1,0 +1,7 @@
+#Tue Mar 21 15:25:05 PDT 2017
+base.0=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/acrcloud-android-sdk-1.4.2_a71981c4b0ebf6bfe6b0345cb81b3385198cdb9e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7a6a87ab7dcd50c5b98bf97c27a0a0515e8abafc/classes.dex
+base.1=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_7a6a87ab7dcd50c5b98bf97c27a0a0515e8abafc
+file.0=/Users/mollyr/projects/acrcloud/acrcloudAndroid/ACRCloud-android-sdk-1.4.2/ACRCloudSDKDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/acrcloud-android-sdk-1.4.2_a71981c4b0ebf6bfe6b0345cb81b3385198cdb9e/classes.dex

@@ -96,12 +96,13 @@ public class MainActivity extends Activity implements IACRCloudListener {
         //this.mConfig.acrcloudResultWithAudioListener = this;
         
         this.mConfig.context = this;
-        this.mConfig.host = "XXXXXXXX";
-        this.mConfig.dbPath = path; // offline db path, you can change it with other path which this app can access.
-        this.mConfig.accessKey = "XXXXXXXX";
-        this.mConfig.accessSecret = "XXXXXXXX";
-        this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_REMOTE;
-        //this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_LOCAL;
+        this.mConfig.host = "acrcloud_offline_db";
+        this.mConfig.dbPath = Environment.getExternalStorageDirectory().toString()
+				+ "/acrcloud_offline_db"; // offline db path, you can change it with other path which this app can access.
+        this.mConfig.accessKey = "0bdb2adac5e70a2b3a54bc6b9ae7270b";
+        this.mConfig.accessSecret = "ndXggNH3SrvjsgcY43qKJbTA7d3HKde39iSbqO5q";
+//        this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_REMOTE;
+        this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_LOCAL;
         //this.mConfig.reqMode = ACRCloudConfig.ACRCloudRecMode.REC_MODE_BOTH;
 
         this.mClient = new ACRCloudClient();
@@ -159,7 +160,7 @@ public class MainActivity extends Activity implements IACRCloudListener {
 
     // Old api
 	@Override
-	public void onResult(String result) {	
+	public void onResult(String result) {
 		if (this.mClient != null) {
 			this.mClient.cancel();
 			mProcessing = false;
